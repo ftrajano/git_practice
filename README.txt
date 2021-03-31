@@ -1,2 +1,2 @@
 Hello, Git and GitHub
-Editing my new brancho for the first time.
+Editing my new branch for the first time.
